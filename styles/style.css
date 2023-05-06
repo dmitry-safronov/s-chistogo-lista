@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    background: #1e1e1e;
+}
+
+h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  font-family:  'Inter', 'Arial', sans-serif;
+  font-weight: 400;
+}
+
+.display-block {
+  display: block;
+}
+
+.test-align-left{
+  text-align: left;
+}
+
+.test-align-center{
+  text-align: center;
+}
+
+.test-align-right{
+  text-align: right;
+}
+
+.content-section {
+  box-sizing: border-box;
+  width: 360px;
+  margin: auto;
+}
+
+.content-section_theme_dark {
+  background: black;
+  color: white;
+}
+
+.content-section_theme_bright {
+  background: yellow;
+}
+
+.header {
+  padding: 24px 20px;
+  display: flex;
+}
+
+.header_logo {
+  
+}
+
+.header_logo-image {
+  width: 78.45px; 
+  height: 15.43px;
+}
+
+.header_menu {
+
+}
+
+.header_menu-list {
+
+}
+
+.header_menu-link {
+
+}
+
+.cover {
+  padding: 24px 20px;
+} 
+
+.intro {
+  padding: 24px 20px;
+} 
+
+.reasons { 
+  padding: 24px 20px;
+}
+
+.how-to {
+  padding: 24px 20px;
+}
+
+.footer {
+  padding: 24px 20px;
+}
+
