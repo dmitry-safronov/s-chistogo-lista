@@ -96,6 +96,10 @@ a {
   padding-left: 20px;
 }
 
+.cover_header-second-line {
+  margin-left: -2px;
+}
+
 .cover_header-third-line {
   padding-right: 24px;
   padding-bottom: 5px;
