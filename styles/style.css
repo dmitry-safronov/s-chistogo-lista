@@ -4,6 +4,7 @@ body {
     font-family:  'Inter', 'Arial', sans-serif;
     font-style: normal;
     font-weight: 400;
+    font-size: 16px;
 }
 
 h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
@@ -39,7 +40,7 @@ a {
 }
 
 .content-section_theme_dark {
-  background: black;
+  background: #131313;
   color: white;
 }
 
@@ -72,7 +73,7 @@ a {
 
 .header_menu-link {
   font-size: 16px;
-  line-height: 19px;
+  line-height: 120%;
   font-weight: 400;
 }
 
@@ -88,7 +89,7 @@ a {
   font-weight: 400;
   font-style: normal;
   font-size: 72px;
-  line-height: 72px;
+  line-height: 100%;
 }
 
 .cover_header-first-line {
@@ -126,7 +127,8 @@ a {
 
 .intro_main-text {
   padding-top: 24px;
-  line-height: 22px;
+  line-height: 135%;
+  color: #F5F5F5;
 }
 
 .reasons {
