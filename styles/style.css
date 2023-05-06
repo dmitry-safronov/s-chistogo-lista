@@ -1,6 +1,8 @@
 body {
     margin: 0;
     background: #1e1e1e;
+    font-family:  'Inter', 'Arial', sans-serif;
+    font-weight: 400;
 }
 
 h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
@@ -11,11 +13,6 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
 a {
   color: #F5F5F5;
   text-decoration: none;
-}
-
-body {
-  font-family:  'Inter', 'Arial', sans-serif;
-  font-weight: 400;
 }
 
 .display-block {
@@ -63,7 +60,7 @@ body {
   margin-left: auto;
 }
 
-.header_menu-list {  
+.header_menu-list {
   list-style: none;
 }
 
@@ -79,7 +76,6 @@ body {
 
 .cover {
   background-image: url(../images/cover.svg);
-  background-position: center;
   background-repeat: no-repeat;
   background-size: 97% auto;
   background-position: 20px 36px;
@@ -87,7 +83,7 @@ body {
 
 .cover_header {
   padding-top: 7px;
-  font-family:  'EB-Garamond';
+  font-family:  'EB Garamond';
   font-weight: 400;
   font-size: 72px;
 }
@@ -104,7 +100,7 @@ body {
   padding: 24px 20px;
 } 
 
-.reasons { 
+.reasons {
   padding: 24px 20px;
 }
 
