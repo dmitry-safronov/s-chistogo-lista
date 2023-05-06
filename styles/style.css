@@ -8,6 +8,11 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
     padding: 0;
 }
 
+a {
+  color: #F5F5F5;
+  text-decoration: none;
+}
+
 body {
   font-family:  'Inter', 'Arial', sans-serif;
   font-weight: 400;
@@ -17,15 +22,15 @@ body {
   display: block;
 }
 
-.test-align-left{
+.test-align-left {
   text-align: left;
 }
 
-.test-align-center{
+.test-align-center {
   text-align: center;
 }
 
-.test-align-right{
+.test-align-right {
   text-align: right;
 }
 
@@ -50,29 +55,50 @@ body {
 }
 
 .header_logo {
-  
-}
-
-.header_logo-image {
   width: 78.45px; 
   height: 15.43px;
 }
 
 .header_menu {
-
+  margin-left: auto;
 }
 
-.header_menu-list {
+.header_menu-list {  
+  list-style: none;
+}
 
+.header_menu-item {
+  text-decoration: underline;
+  margin-top: 12px;
 }
 
 .header_menu-link {
-
+  font-size: 16px;
+  line-height: 19.2px;
 }
 
 .cover {
-  padding: 24px 20px;
+  background-image: url(../images/cover.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 97% auto;
+  background-position: 20px 36px;
 } 
+
+.cover_header {
+  padding-top: 7px;
+  font-family:  'EB-Garamond';
+  font-weight: 400;
+  font-size: 72px;
+}
+
+.cover_header-first-line {
+  padding-left: 20px;
+}
+
+.cover_header-third-line {
+  padding-right: 24px;
+}
 
 .intro {
   padding: 24px 20px;
