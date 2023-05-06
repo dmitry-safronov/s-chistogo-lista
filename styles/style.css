@@ -98,7 +98,7 @@ a {
 
 .cover_header-third-line {
   padding-right: 24px;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
 }
 
 .intro {
@@ -107,6 +107,7 @@ a {
 
 .intro_heading {
   display: flex;
+  line-height: 120%;
 }
 
 .intro_title {
@@ -121,6 +122,7 @@ a {
 
 .intro_main-text {
   padding-top: 24px;
+  line-height: 22px;
 }
 
 .reasons {
