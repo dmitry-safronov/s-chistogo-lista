@@ -66,7 +66,7 @@ a {
 
 .header_menu-item {
   text-decoration: underline;
-  margin-top: 12px;
+  margin-top: 13px;
 }
 
 .header_menu-link {
@@ -77,18 +77,20 @@ a {
 .cover {
   background-image: url(../images/cover.svg);
   background-repeat: no-repeat;
-  background-size: 97% auto;
-  background-position: 20px 36px;
+  background-size: 95% auto;
+  background-position: 20px 20px;
 } 
 
 .cover_header {
-  padding-top: 7px;
   font-family:  'EB Garamond';
   font-weight: 400;
+  font-style: normal;
   font-size: 72px;
+  line-height: 72px;
 }
 
-.cover_header-first-line {
+.cover_header-first-line {  
+  padding-top: 7px;
   padding-left: 20px;
 }
 
