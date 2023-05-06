@@ -115,9 +115,10 @@ a {
 .intro_date {
   margin-left: auto;
   color: #CCCCCC;
+  white-space: nowrap;
 }
 
-.intro__main-text {
+.intro_main-text {
   padding-top: 24px;
 }
 
