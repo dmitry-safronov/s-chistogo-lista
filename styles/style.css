@@ -101,8 +101,25 @@ a {
 }
 
 .intro {
-  padding: 24px 20px;
-} 
+  padding: 30px 20px 38px;
+}
+
+.intro_heading {
+  display: flex;
+}
+
+.intro_title {
+  color: #CCCCCC;
+}
+
+.intro_date {
+  margin-left: auto;
+  color: #CCCCCC;
+}
+
+.intro__main-text {
+  padding-top: 24px;
+}
 
 .reasons {
   padding: 24px 20px;
