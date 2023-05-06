@@ -80,7 +80,7 @@ a {
   background-image: url(../images/cover.svg);
   background-repeat: no-repeat;
   background-size: 95% auto;
-  background-position: 18px 26px;
+  background-position: 18px 30px;
 } 
 
 .cover_header {
@@ -92,7 +92,7 @@ a {
 }
 
 .cover_header-first-line {
-  padding-top: 7px;
+  padding-top: 8px;
   padding-left: 20px;
 }
 
