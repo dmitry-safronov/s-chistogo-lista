@@ -45,11 +45,12 @@ a {
 
 .content-section_theme_dark {
   background: #131313;
-  color: white;
+  color: #F5F5F5;
 }
 
 .content-section_theme_bright {
   background: #FEE42A;
+  color: #131313;
 }
 
 .header {
@@ -143,7 +144,6 @@ a {
   font-style: normal;
   font-size: 28px;
   line-height: 115%;
-  color: #131313;
   margin-top: 16px;
 }
 
