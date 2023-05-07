@@ -163,6 +163,22 @@ a {
   margin-top: 32px;
 }
 
+.reasons_list {
+  margin-top: 32px;
+  margin-left: 16px;
+}
+
+.reasons_list-item {
+  font-style: normal;
+  font-size: 16px;
+  line-height: 135%;
+  margin-top: 16px;
+}
+
+.reasons_list-accent {
+  font-weight: 700;
+}
+
 .how-to {
   padding: 24px 20px;
 }
