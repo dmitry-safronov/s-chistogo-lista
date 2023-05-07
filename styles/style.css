@@ -81,7 +81,6 @@ a {
   font-size: 16px;
   line-height: 120%;
   font-weight: 400;
-  color: #F5F5F5;
 }
 
 .cover {
@@ -179,6 +178,25 @@ a {
 }
 
 .footer {
-  padding: 24px 20px;
+  padding: 20px;  
+  display: flex;
+}
+
+.footer_copyright {
+  line-height: 135%;
+}
+
+.footer_menu-list {
+  list-style: none;
+  margin-left: auto;
+}
+
+.footer_menu-item {
+  display: inline;
+}
+
+.header_menu-link {
+  font-size: 14px;
+  line-height: 125%;
 }
 
