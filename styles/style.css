@@ -147,12 +147,8 @@ a {
   margin-top: 16px;
 }
 
-.reasons_header-first-line {
-
-}
-
 .reasons_header-second-line {
-
+  margin-top: -1px;
 }
 
 .reasons_introduction {
