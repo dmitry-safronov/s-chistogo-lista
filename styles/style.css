@@ -12,6 +12,10 @@ body {
 h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
     margin: 0;
     padding: 0;
+    font-family:  'Inter', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
 }
 
 a {
@@ -47,7 +51,7 @@ a {
 }
 
 .content-section_theme_bright {
-  background: yellow;
+  background: #FEE42A;
 }
 
 .header {
@@ -117,15 +121,11 @@ a {
 .intro_heading {
   display: flex;
   line-height: 120%;
-}
-
-.intro_title {
   color: #CCCCCC;
 }
 
 .intro_date {
   margin-left: auto;
-  color: #CCCCCC;
   white-space: nowrap;
 }
 
@@ -137,6 +137,30 @@ a {
 
 .reasons {
   padding: 24px 20px;
+}
+
+.reasons_header {
+  font-family:  'EB Garamond';
+  font-weight: 500;
+  font-style: normal;
+  font-size: 28px;
+  line-height: 115%;
+  color: #131313;
+  margin-top: 16px;
+}
+
+.reasons_header-first-line {
+
+}
+
+.reasons_header-second-line {
+
+}
+
+.reasons_introduction {
+  font-size: 20px;
+  line-height: 135%;
+  margin-top: 32px;
 }
 
 .how-to {
