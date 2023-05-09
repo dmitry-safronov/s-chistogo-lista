@@ -151,7 +151,11 @@ a {
   margin-top: 16px;
 }
 
-.content_header-second-line {
+.top-margin-minus-one {
+  margin-top: -1px;
+}
+
+.top-margin-plus-one {
   margin-top: 1px;
 }
 
@@ -226,7 +230,7 @@ a {
 }
 
 .footer {
-  padding: 0px 20px 19px;  
+  padding: 1px 20px 19px;  
   display: flex;
   border-top:#FEE42A 1px solid;
 }
