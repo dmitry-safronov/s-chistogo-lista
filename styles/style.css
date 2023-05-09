@@ -139,7 +139,7 @@ a {
 }
 
 .reasons {
-  padding: 24px 20px 40px;
+  padding: 24px 20px 39px;
 }
 
 .content_header {
@@ -212,9 +212,6 @@ a {
 .card_author-name {
   font-weight: 700;
   line-height: 135%;
-}
-
-.card_content {
 }
 
 .card_title {
