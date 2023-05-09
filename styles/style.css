@@ -184,7 +184,7 @@ a {
 }
 
 .how-to {
-  padding: 24px 20px 50px;
+  padding: 24px 20px 61px;
 }
 
 .cards-list {
@@ -229,16 +229,18 @@ a {
 }
 
 .footer {
-  padding: 24px 20px 25px;
+  padding: 20px 20px 20px;
   display: flex;
   border-top:#FEE42A 1px solid;
 }
 
 .footer_copyright {
+  height: 20px;
   line-height: 135%;
 }
 
 .footer_menu-list {
+  height: 20px;
   list-style: none;
   margin-left: auto;
 }
