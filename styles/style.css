@@ -225,10 +225,11 @@ a {
 .card_text {
   line-height: 135%;
   margin-top: 7px;
+  margin-bottom: 1px;
 }
 
 .footer {
-  padding: 26.3px 20px 25px;
+  padding: 24px 20px 25px;
   display: flex;
   border-top:#FEE42A 1px solid;
 }
