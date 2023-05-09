@@ -222,13 +222,13 @@ a {
   line-height: 135%;
 }
 
-.card_text {
+.card_text {  
   line-height: 135%;
   margin-top: 7px;
 }
 
 .footer {
-  padding: 10px 20px 19px;
+  padding: 26.3px 20px 19px;
   display: flex;
   border-top:#FEE42A 1px solid;
 }
