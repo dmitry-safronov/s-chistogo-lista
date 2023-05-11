@@ -84,9 +84,7 @@ a {
 }
 
 .header_menu-link {
-  font-size: 16px;
   line-height: 120%;
-  font-weight: 400;
 }
 
 .cover {
@@ -98,7 +96,6 @@ a {
 
 .cover_header {
   font-family:  'EB Garamond';
-  font-weight: 400;
   font-style: normal;
   font-size: 72px;
   line-height: 100%;
@@ -173,8 +170,6 @@ a {
 }
 
 .reasons_list-item {
-  font-style: normal;
-  font-size: 16px;
   margin-top: 16px;
 }
 
