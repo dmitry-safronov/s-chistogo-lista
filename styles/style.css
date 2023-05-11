@@ -5,6 +5,7 @@ body {
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
+    line-height: 135%;
 }
 
 h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
@@ -134,7 +135,6 @@ a {
 
 .intro_main-text {
   margin-top: 24px;
-  line-height: 135%;
   color: #F5F5F5;
 }
 
@@ -175,7 +175,6 @@ a {
 .reasons_list-item {
   font-style: normal;
   font-size: 16px;
-  line-height: 135%;
   margin-top: 16px;
 }
 
@@ -211,7 +210,6 @@ a {
 
 .card_author-name {
   font-weight: 700;
-  line-height: 135%;
 }
 
 .card_title {
@@ -223,7 +221,6 @@ a {
 }
 
 .card_text {
-  line-height: 135%;
   margin-top: 7px;
   margin-bottom: 1px;
 }
@@ -236,7 +233,6 @@ a {
 
 .footer_copyright {
   height: 20px;
-  line-height: 135%;
 }
 
 .footer_menu-list {
