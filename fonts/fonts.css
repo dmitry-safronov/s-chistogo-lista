@@ -37,5 +37,5 @@
     font-display: swap;
     src: url(interbold.woff2) format('woff2'),
          url(interbold.woff) format('woff'),
-         url(interbold.ttf) format('truetype');    
+         url(interbold.ttf) format('truetype');
 }
