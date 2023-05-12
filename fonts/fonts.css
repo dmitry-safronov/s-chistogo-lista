@@ -2,38 +2,40 @@
     font-family: 'EB Garamond';
     font-weight: 400;
     font-style: normal;
-    font-display: fallback;
-    src: url(ebgaramondregular.ttf) format('truetype'),
+    font-display: swap;
+    src: url(ebgaramondregular.woff2) format('woff2'),
          url(ebgaramondregular.woff) format('woff'),
-         url(ebgaramondregular.woff2) format('woff2');
+         url(ebgaramondregular.ttf) format('truetype');
 }
 
 @font-face {
     font-family: 'EB Garamond';
     font-weight: 500;
     font-style: normal;
-    font-display: fallback;
-    src: url(ebgaramondmedium.ttf) format('truetype'),
+    font-display: swap;
+    src: url(ebgaramondmedium.woff2) format('woff2'),
          url(ebgaramondmedium.woff) format('woff'),
-         url(ebgaramondmedium.woff2) format('woff2');
+         url(ebgaramondmedium.ttf) format('truetype');
+         
+         
 }
 
 @font-face {
     font-family: 'Inter';
     font-weight: 400;
     font-style: normal;
-    font-display: fallback;
-    src: url(interregular.ttf) format('truetype'),
+    font-display: swap;
+    src: url(interregular.woff2) format('woff2'),
          url(interregular.woff) format('woff'),
-         url(interregular.woff2) format('woff2');
+         url(interregular.ttf) format('truetype');
 }
 
 @font-face {
     font-family: 'Inter';
     font-weight: 700;
     font-style: normal;
-    font-display: fallback;
-    src: url(interbold.ttf) format('truetype'),
+    font-display: swap;
+    src: url(interbold.woff2) format('woff2'),
          url(interbold.woff) format('woff'),
-         url(interbold.woff2) format('woff2');
+         url(interbold.ttf) format('truetype');    
 }
